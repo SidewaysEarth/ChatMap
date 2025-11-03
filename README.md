@@ -39,27 +39,6 @@ You have 8 H1 headings. You may want to use the "H1 -> H2" option to demote all 
 ----->
 
 
-<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 1; WARNINGs: 1; ALERTS: 13.</p>
-<ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
-
-<p style="color: red; font-weight: bold">Links to alert messages:</p><a href="#gdcalert1">alert1</a>
-<a href="#gdcalert2">alert2</a>
-<a href="#gdcalert3">alert3</a>
-<a href="#gdcalert4">alert4</a>
-<a href="#gdcalert5">alert5</a>
-<a href="#gdcalert6">alert6</a>
-<a href="#gdcalert7">alert7</a>
-<a href="#gdcalert8">alert8</a>
-<a href="#gdcalert9">alert9</a>
-<a href="#gdcalert10">alert10</a>
-<a href="#gdcalert11">alert11</a>
-<a href="#gdcalert12">alert12</a>
-<a href="#gdcalert13">alert13</a>
-
-<p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
-
-
-
 # ChatMap: Community Knowledge for Regeneration
 
 
@@ -636,11 +615,7 @@ The **ISE (Water Innovation & Solutions Engine)** is an AI chatbot focused on wa
 User interfaces have been transforming through a plethora of chatbots that accompany web and mobile apps. Slowly, interfaces are being replaced by text inputs that simply instruct users to ask their question. At first, it’s disarming. Where is the drop-down with my destination and date of travel? Ultimately, it just makes sense. Why force users to choose from 4 dropdowns when they could just type in a natural language sentence (in French or English)? 
 
 
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image1.png "image_tooltip")
+![SNCF](images/Images/1CM-sncf.png)
 
 
 Most people don’t know how to write a database query, and most searches provide only a small sampling of the information that people want. LLMs provide a completely different approach to development of user interfaces that makes them intuitive. Not only can people type into these interfaces, voice-to-text and text-to-voice allow LLMs to be as simple as a normal conversation. 
@@ -741,11 +716,7 @@ This user journey is specific to organizations that maintain some kind of databa
 2. User clicks the invitation to reach the Knowledge Input interface. 
 
     
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image2.png "image_tooltip")
+![Addinfo](images/Images/Images/CM2-Addinfo.jpg)
 
 
 3. The user indicates the type of database or list they are uploading (wiki, online database, csv, etc.) and the link of the public information.
@@ -762,14 +733,8 @@ Any individual can contribute a link or a list of bookmarks to the system. These
 
 
 1. An individual goes to the contribution page. 
-
     
-
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image3.png "image_tooltip")
-
+![base input](images/Images/CM3-BaseInput.jpg)
 
 2. The individual gives identifying information (to prevent bots and trolls).
 3. The individual adds a URL or uploads a list of URLs or bookmarks related to the ChatMap database.
