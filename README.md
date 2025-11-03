@@ -25,16 +25,7 @@ Conversion notes:
 * Mon Nov 03 2025 06:06:03 GMT-0800 (PST)
 * Source doc: ChatMap for Regeneration Specifications
 
-ERROR:
-undefined internal link to this URL: "#heading=h.e0detrm0gye1".link text: Regenerative Knowledge Systems
-?Did you generate a TOC with blue links?
 
-* Tables are currently converted to HTML tables.
-* This document has images: check for >>>>>  gd2md-html alert:  inline image link in generated source and store images to your server. NOTE: Images in exported zip file from Google Docs may not appear in  the same order as they do in your doc. Please check the images!
-
-
-WARNING:
-You have 8 H1 headings. You may want to use the "H1 -> H2" option to demote all headings by one level.
 
 ----->
 
@@ -615,7 +606,7 @@ The **ISE (Water Innovation & Solutions Engine)** is an AI chatbot focused on wa
 User interfaces have been transforming through a plethora of chatbots that accompany web and mobile apps. Slowly, interfaces are being replaced by text inputs that simply instruct users to ask their question. At first, it’s disarming. Where is the drop-down with my destination and date of travel? Ultimately, it just makes sense. Why force users to choose from 4 dropdowns when they could just type in a natural language sentence (in French or English)? 
 
 
-![SNCF](images/Images/1CM-sncf.png)
+![SNCF](Images/1CM-sncf.png)
 
 
 Most people don’t know how to write a database query, and most searches provide only a small sampling of the information that people want. LLMs provide a completely different approach to development of user interfaces that makes them intuitive. Not only can people type into these interfaces, voice-to-text and text-to-voice allow LLMs to be as simple as a normal conversation. 
@@ -716,7 +707,7 @@ This user journey is specific to organizations that maintain some kind of databa
 2. User clicks the invitation to reach the Knowledge Input interface. 
 
     
-![Addinfo](images/Images/Images/CM2-Addinfo.jpg)
+![Addinfo](Images/CM2-Addinfo.jpg)
 
 
 3. The user indicates the type of database or list they are uploading (wiki, online database, csv, etc.) and the link of the public information.
@@ -734,7 +725,7 @@ Any individual can contribute a link or a list of bookmarks to the system. These
 
 1. An individual goes to the contribution page. 
     
-![base input](images/Images/CM3-BaseInput.jpg)
+![base input](Images/CM3-BaseInput.jpg)
 
 2. The individual gives identifying information (to prevent bots and trolls).
 3. The individual adds a URL or uploads a list of URLs or bookmarks related to the ChatMap database.
@@ -767,33 +758,31 @@ For this use case, the individual will receive the output in a map format.
 <p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![Workd](images/CM1-Vani.png)
+![Workd](Images/CM4-Vani.png)
 
-![Chatscreen](images/CM2-Vani.png)
-
-
-
-![Discuss](images/CM3-Vani.png)
+![Chatscreen](Images/CM5-Vani.png)
 
 
 
-![4thchat](images/CM4-Vani.png)
+![Discuss](Images/CM6-Vani.png)
 
 
 
-![5chat](images/CM5-Vani.png)
+![4thchat](Images/CM7-Vani.png)
+
+
+
+![5chat](Images/CM8-Vani.png)
 
 
 
 
-![6chat](images/CM6-Vani.png)
+![6chat](Images/CM9-Vani.png)
 
 
 
-![CN2-Vani](images/CM7-Vani.png)
+![CN2-Vani](Images/CN1-Vani.png)
 
-
-![stuff](images/CM8-Vani.png)
 
 
 
@@ -828,7 +817,7 @@ Chuck loves browsing the web and has built up his own assessment of trustworthy 
 #### Vani tells about her experience after volunteering.
 
 
-![stuff](images/CN1- Vani.png)
+![stuff](Images/CN2-Vani.png)
 
 
 
